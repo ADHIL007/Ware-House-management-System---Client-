@@ -1,0 +1,10 @@
+.app-main-home-login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    position: absolute;
+    right: 100px;
+    bottom: 100px;
+}
